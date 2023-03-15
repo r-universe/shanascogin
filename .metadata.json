@@ -1,14 +1,14 @@
 [
   {
+    "package": "modeLLtest",
+    "oncran": true
+  },
+  {
     "package": "BayesPostEst",
     "oncran": true
   },
   {
     "package": "coxrobust",
-    "oncran": true
-  },
-  {
-    "package": "modeLLtest",
     "oncran": true
   }
 ]
