@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "modeLLtest"]
-	path = modeLLtest
-	url = https://github.com/shanascogin/modelltest
-	shallow = true
-	registered = true
 [submodule "BayesPostEst"]
 	path = BayesPostEst
 	url = https://github.com/shanascogin/bayespostest
@@ -16,5 +11,10 @@
 [submodule "coxrobust"]
 	path = coxrobust
 	url = https://github.com/shanascogin/coxrobust
+	shallow = true
+	registered = true
+[submodule "modeLLtest"]
+	path = modeLLtest
+	url = https://github.com/shanascogin/modelltest
 	shallow = true
 	registered = true
